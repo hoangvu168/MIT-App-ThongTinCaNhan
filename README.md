@@ -6,7 +6,7 @@
 ## **Giới thiệu**  
 Ứng dụng Android này được xây dựng bằng **MIT App Inventor**, nhằm mục đích hiển thị thông tin cá nhân và giải phương trình bậc hai.
 
-## **Video quá trình làm việc**   
+## **Video quá trình làm bài tập **   
 **video 1**
 📹 [Xem toàn bộ quá trình làm (3 giờ)](https://www.youtube.com/watch?v=ip0IdVIdMIc&t=1s))
 
