@@ -9,9 +9,9 @@
 ## **Video quá trình làm bài tập **   
 **video 1**
 📹 [Xem toàn bộ quá trình làm (3 giờ)](https://www.youtube.com/watch?v=ip0IdVIdMIc&t=1s))
-
-**video 2**
  [Xem toàn bộ quá trình làm (3 giờ)]([Click here to watch the video](https://www.youtube.com/watch?v=IfGjKiD_UDY&t=6s))
+**video 2**
+📹 [Xem toàn bộ quá trình làm (3 giờ)](https://www.youtube.com/watch?v=ip0IdVIdMIc&t=1s))
 ## **Yêu cầu bài tập**  
 - **Tìm hiểu và xây dựng một app Android cơ bản.**  
 - **Thiết kế giao diện hiển thị thông tin cá nhân:**  
